@@ -1,0 +1,72 @@
+body{
+    background: #00e0e0;
+    text-align: center;
+}
+
+#maindiv{
+    background: white;
+    margin:0 auto;
+    width: 800px;
+}
+
+#logo{
+    float: left;
+    width: 180px;
+    height: 150px;
+    border: 2px solid blue;
+    margin-right: 10px;
+}
+
+#menu{
+    float: right;
+    width: 500px;
+    height: 40px;
+    border: 2px solid blue;
+    margin-top: 100px;
+}
+
+#slider{
+    width: 797px;
+    height: 150px;
+    border: 2px solid blue;
+    margin-top: 10px;
+}
+
+.threeboxes{
+    height: 200px;
+    width: 242px;
+    float: left;
+    border: 2px solid blue;
+    margin: 6px ;
+    margin-left: 1px auto;
+    margin-right: 1px auto;
+}
+
+
+#threeboxesdiv{
+    border: 2px solid blue;
+    margin: 10px;
+}
+#fourboxesdiv{
+border: 2px solid blue;
+margin: 10px;
+}
+
+.fourboxes{
+    height: 150px;
+    width: 160px;
+    float:left;
+    border: 2px solid blue;
+    margin: 6px;
+    padding-right: 9px;
+    padding-left: 9px;
+}
+
+#bottom{
+    height: 50px;
+    border: 2px solid blue;
+}
+
+.clean{
+    clear: both;
+}
